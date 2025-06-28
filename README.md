@@ -8,8 +8,6 @@ Open Tableau Desktop and connect to the Web Data Connector with the following UR
 
 https://open-brewery-wdc.sliceofkeesh.com
 
-Select a state from the drop down and click "Get Brewery Data!"
+Select a state from the drop-down and click "Get Brewery Data!"
 
-## Help!
-
-Feel free to reach out to me on twitter [@KroseKeshia](https://twitter.com/KroseKeshia). I am not associated with [Open Brewery DB](https://www.openbrewerydb.org/).
+_I am not associated with [Open Brewery DB](https://www.openbrewerydb.org/)._
