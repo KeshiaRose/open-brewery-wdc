@@ -6,7 +6,7 @@ A Tableau Web Data Connector that connects to public information on breweries, c
 
 Open Tableau Desktop and connect to the Web Data Connector with the following URL:
 
-https://open-brewery-wdc.glitch.me/
+https://open-brewery-wdc.sliceofkeesh.com
 
 Select a state from the drop down and click "Get Brewery Data!"
 
